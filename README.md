@@ -34,4 +34,9 @@ Bộ dữ liệu bao gồm một số cột quan trọng (đặc tính) như:
 2. Cài đặt các thư viện yêu cầu bằng pip:
    ```bash
    pip install pandas matplotlib scikit-learn streamlit
+### Tác giả
+- Đặng Trung Hiếu: Mã sinh viên 12423010 Lớp 124231
+- Dương Quốc Huy: Mã sinh viên 12423060 Lớp 124231
+  
+
 
